@@ -26,13 +26,13 @@ public class Monopoly extends JFrame implements Runnable {
     final int innerboarder=160;
     final int innerboarder2=220;
     
-    //int numRows=11;
-    //int numColumns=11;
-
-  //  int board[][];
-    
+//    int numRows=11;
+//    int numColumns=11;
+//
+////    int board[][];
+////    
 //    int currentRow;
-//    int currentColumn;
+////    int currentColumn;
 
     
     static Monopoly frame1;
